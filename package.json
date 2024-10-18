@@ -10,8 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "express": "^4.21.1",
     "mysql2": "^3.11.3",
     "sequelize": "^6.37.4"
+=======
+    "mysql2": "^3.11.3"
+>>>>>>> 4c3c451861dab8cde00d8960b746cbfa52941009
   }
 }
